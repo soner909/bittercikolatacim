@@ -1,2 +1,2 @@
 # bittercikolatacim
-bittercikolatacim.com.tr  clon
+bittercikolatacim.com.tr  clone
